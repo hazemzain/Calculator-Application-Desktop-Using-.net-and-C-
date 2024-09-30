@@ -1,0 +1,10 @@
+D:\Tasks\CalcultorTask1\bin\Debug\CalcultorTask1.exe.config
+D:\Tasks\CalcultorTask1\bin\Debug\CalcultorTask1.exe
+D:\Tasks\CalcultorTask1\bin\Debug\CalcultorTask1.pdb
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.csproj.AssemblyReference.cache
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.Form1.resources
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.Properties.Resources.resources
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.csproj.GenerateResource.cache
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.csproj.CoreCompileInputs.cache
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.exe
+D:\Tasks\CalcultorTask1\obj\Debug\CalcultorTask1.pdb
